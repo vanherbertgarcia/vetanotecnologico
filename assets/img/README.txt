@@ -1,0 +1,1 @@
+Coloque aquí producto.jpg
